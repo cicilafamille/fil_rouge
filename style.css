@@ -1,0 +1,24 @@
+#step1 {
+    text-align : justify ;
+    text-align : center;
+    text-align: start ;
+}
+
+#step2 {
+    text-align: justify;
+    text-align: end;
+}
+
+body {
+    background-color : rgb(4 24 33);
+}
+
+.macouleur1 {
+    color : white 
+    }
+.macouleur2 {
+    color :rgb(23 213 154);
+    }
+.macouleur3 {
+    color : rgb(108 116 121)
+}
